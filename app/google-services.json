@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585951586412",
+    "project_id": "abhishek-473fd",
+    "storage_bucket": "abhishek-473fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585951586412:android:8415df0dccf101f1189049",
+        "android_client_info": {
+          "package_name": "miniproject.codes.abhishek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585951586412-617b5g7vohqtpqoj7enhnrd4rd8viqg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKrwS18N8QAQ9oeNclopObgENTVWCsG2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585951586412-617b5g7vohqtpqoj7enhnrd4rd8viqg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
